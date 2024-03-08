@@ -27,8 +27,8 @@ Use the calculator to perform basic arithmetic operations.
 ## File Structure
 
 * index.html: Contains the HTML structure of the calculator.
-* style.css: Contains the CSS styles for the calculator layout and buttons.
-* script.js: Contains the JavaScript code for implementing the calculator functionality.
+* calu.css: Contains the CSS styles for the calculator layout and buttons.
+* data.js: Contains the JavaScript code for implementing the calculator functionality.
 
 # Preview
 

@@ -4,7 +4,7 @@ This is a simple calculator application built using HTML, CSS, and JavaScript.
 
 # also see this my simple calculator
 
-
+* link = https://amar-webdev.github.io/Simple-Calculator/
 
 ## Features
 
